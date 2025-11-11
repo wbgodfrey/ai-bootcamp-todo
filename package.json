@@ -1,0 +1,12 @@
+{
+  "name": "todo-list-app",
+  "version": "1.0.0",
+  "description": "Simple to-do list with JSON file storage",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
